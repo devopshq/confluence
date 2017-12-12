@@ -8,7 +8,7 @@ def Confluence():
     """
     This is Main method that do nosting.
     """
-    return "This is Main module for Confluence that do nothing.\nRead more about DevOpsHQ Community here: https://github.com/devopshq/ExampleProject"
+    return "This is Main module for Confluence Project that do nothing.\nRead more about DevOpsHQ Community here: https://github.com/devopshq/ExampleProject"
 
 
 if __name__ == "__main__":
